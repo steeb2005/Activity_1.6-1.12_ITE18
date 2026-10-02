@@ -9,7 +9,7 @@
     "deploy": "vercel --prod"
   },
   "devDependencies": {
-    "vite": "^4.0.4"
+    "vite": "^8.3.2"
   },
   "dependencies": {
     "gsap": "^3.11.4",
